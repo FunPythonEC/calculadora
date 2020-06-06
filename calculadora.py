@@ -8,3 +8,6 @@ def sum(a,b):
 
 def div(a,b):
 	print(a/b)
+
+def sum3(a,b,c):
+	print(a+b+c)
