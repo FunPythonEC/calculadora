@@ -6,3 +6,5 @@ def mul(a,b,c):
 def sum(a,b):
 	print(a+b)
 
+def div(a,b):
+	print(a/b)
